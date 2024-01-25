@@ -1,0 +1,25 @@
+.input-col {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  .divider {
+    height: 5px;
+    width: 10px;
+    background-color: aqua;
+  }
+
+  .otp-input {
+    border: 0.69px solid rgba(208, 213, 221, 1);
+    color: rgba(208, 213, 221, 1);
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 5px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+  }
+}

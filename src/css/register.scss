@@ -1,0 +1,48 @@
+.company-logo {
+  max-height: 200px;
+  min-height: 100px;
+}
+
+.basic-info {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.navbar-item-register {
+  color: #f6881f;
+}
+
+.register-btn {
+  padding: 8px 20px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 13px;
+  background-color: #f6881f;
+  border-radius: 5px;
+  border: 0px;
+  width: 100%;
+}
+
+.reg-summary-wrapper {
+  background-color: rgb(179, 181, 188);
+
+  .terms-text {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .mini-text {
+    font-size: 13px;
+  }
+
+  .reg-summary-text {
+    font-weight: 700;
+    font-size: 13px;
+  }
+}
+
+.logo-img {
+  max-width: 40px;
+  max-height: 40px;
+}
